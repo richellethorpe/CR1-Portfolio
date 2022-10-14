@@ -1,7 +1,13 @@
 img {
   width: 30%;
+  float: left;
+  border: 5px solid pink;
 }
 
 body {
   background-color: rgb(153, 226, 246);
+}
+.important {
+  color: rgb(17, 92, 158);
+  font-size: larger;
 }

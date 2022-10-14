@@ -1,6 +1,6 @@
 # CR1-Portfolio
 #### By Richelle Thorpe
-### A simple HTML document to showcase my portfolio as a burgeoning software devoloper at Epicodus.
+### A simple HTML webpage to showcase my portfolio as a burgeoning software devoloper at Epicodus.
 
 ## Technologies Used
 - HTML
@@ -16,6 +16,9 @@ This HTML document allows users to view my portfolio landing page, which include
 
 ## Known bugs
 This HTML document contains no known bugs. Please comment and let me know if any are identified.
+
+## Link to site on GitHub
+https://github.com/richellethorpe/CR1-Portfolio.git
 
 ## License information
 Copyright 2022 Richelle Thorpe

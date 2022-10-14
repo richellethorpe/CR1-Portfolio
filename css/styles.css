@@ -1,7 +1,7 @@
 img {
   width: 30%;
   float: left;
-  border: 5px solid pink;
+  border: 5px solid #f8d482;
   padding: 2px;
   margin: 10px;
   margin-right: 5%;
@@ -13,4 +13,18 @@ body {
 .important {
   color: rgb(17, 92, 158);
   font-size: larger;
+}
+
+.center {
+  text-align: center;
+  font-weight: bold;
+}
+
+.excite {
+  font-style: italic;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 65px;
 }

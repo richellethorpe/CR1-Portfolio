@@ -7,7 +7,7 @@
 - CSS
 
 ## Description
-This HTML document allows users to view my portfolio landing page, which includes a bio about me, a picture of what I looks like, and a list of some of my hobbies.But most importantly it displays a list of projects that I've worked on during my first week at Epicodus with github links to view those projects.
+This HTML document allows users to view my portfolio landing page, which includes a bio about me, a picture of me, and a list of some of my hobbies. But most importantly it displays a list of projects that I've worked on during my first week at Epicodus with github links to view those projects.
 
 ## Setup/Installation Requirements
 - Clone this repository to your desktop.
